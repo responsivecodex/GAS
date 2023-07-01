@@ -57,7 +57,7 @@ ENV NODE_APP_DIR=/usr/src \
 RUN apk update && \
   apk add --update-cache \         
   bash \
-  sudo=1.9.12_p1-r1 \
+  sudo=1.9.13_p3-r2 \
   ip6tables \
   iptables \
   tcptraceroute \
